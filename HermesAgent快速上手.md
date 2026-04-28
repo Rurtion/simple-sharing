@@ -40,7 +40,7 @@ Hermes 有 **3 条认证路径**，对号入座即可：
 
 在 `~/.hermes/.env` 中配置密钥，Hermes 启动时自动读取。
 
-**OpenRouter（推荐新手，一个 Key 访问几乎所有模型）：**
+**OpenRouter（一个 Key 访问几乎所有模型）：**
 
 ```bash
 hermes config set OPENROUTER_API_KEY sk-or-v1-xxxxx
